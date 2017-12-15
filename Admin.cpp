@@ -4,7 +4,6 @@ Admin::Admin()
 {
 
 }
-
 void Admin:: setMyStock(Stock x)
 {
     myStock=x;
@@ -20,4 +19,25 @@ void Stock:: setTotalRevnue(int y)
 int getTotalRevenue()
 {
     return totalRevnue;
+}
+void Admin::reportAvailableItems()
+{
+
+}
+
+void Admin::addNewItem()
+{
+
+}
+void Admin::updateExistingItem()
+{
+
+}
+void Admin::displayTotalCustomers()
+{
+
+}
+void Admin::displayMaxReciept()
+{
+
 }

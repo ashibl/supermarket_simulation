@@ -15,6 +15,11 @@ public:
     Stock getMyStock();
     void setTotalRevnue(int y);
     int getTotalRevenue();
+    void reportAvailableItems();
+    void addNewItem();
+    void updateExistingItem();
+    void displayTotalCustomers();
+    void displayMaxReciept();
 
 };
 
