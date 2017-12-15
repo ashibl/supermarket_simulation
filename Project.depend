@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1512831024 source:c:\users\ahmed\desktop\project\main.cpp
+	<iostream>
+	<string>
+	"Stock.h"
+
+1512808527 source:c:\users\ahmed\desktop\project\item.cpp
+	"Item.h"
+	<string>
+
+1512808527 c:\users\ahmed\desktop\project\item.h
+	<string>
+
+1512830952 source:c:\users\ahmed\desktop\project\customer.cpp
+	"Customer.h"
+	"Stock.h"
+	<iostream>
+
+1513352925 c:\users\ahmed\desktop\project\customer.h
+	"ShoppingItem.h"
+	"Time.h"
+
+1512808527 source:c:\users\ahmed\desktop\project\shoppingitem.cpp
+	"ShoppingItem.h"
+
+1513109195 c:\users\ahmed\desktop\project\shoppingitem.h
+	<string>
+
+1512808527 source:c:\users\ahmed\desktop\project\time.cpp
+	"Time.h"
+
+1512808528 c:\users\ahmed\desktop\project\time.h
+
+1512808527 source:c:\users\ahmed\desktop\project\person.cpp
+	"Person.h"
+
+1512505157 c:\users\ahmed\desktop\project\person.h
+	<string>
+
+1512808527 source:c:\users\ahmed\desktop\project\stock.cpp
+	"Stock.h"
+	"Item.h"
+	<fstream>
+	"Customer.h"
+
+1512808527 c:\users\ahmed\desktop\project\stock.h
+	<iostream>
+	"Item.h"
+	"Customer.h"
+
+1512598338 source:c:\users\ahmed\desktop\project\admin.cpp
+	"Admin.h"
+
+1513352925 c:\users\ahmed\desktop\project\admin.h
+	"Stock.h"
+	"Customer.h"
+
+1512598338 source:c:\users\ahmed shibl\desktop\projectii\admin.cpp
+	"Admin.h"
+
+1513352925 c:\users\ahmed shibl\desktop\projectii\admin.h
+	"Stock.h"
+	"Customer.h"
+
+1512808527 c:\users\ahmed shibl\desktop\projectii\stock.h
+	<iostream>
+	"Item.h"
+	"Customer.h"
+
+1513356526 c:\users\ahmed shibl\desktop\projectii\item.h
+	<string>
+
+1513358733 c:\users\ahmed shibl\desktop\projectii\customer.h
+	"ShoppingItem.h"
+	"Time.h"
+
+1513109195 c:\users\ahmed shibl\desktop\projectii\shoppingitem.h
+	<string>
+
+1513358272 c:\users\ahmed shibl\desktop\projectii\time.h
+
+1512808527 source:c:\users\ahmed shibl\desktop\projectii\item.cpp
+	"Item.h"
+	<string>
+
+1513358598 source:c:\users\ahmed shibl\desktop\projectii\main.cpp
+	<iostream>
+	<string>
+	"Stock.h"
+
+1512808527 source:c:\users\ahmed shibl\desktop\projectii\stock.cpp
+	"Stock.h"
+	"Item.h"
+	<fstream>
+	"Customer.h"
+
+1512808527 source:c:\users\ahmed shibl\desktop\projectii\time.cpp
+	"Time.h"
+
+1513356434 source:c:\users\ahmed shibl\desktop\projectii\customer.cpp
+	"Customer.h"
+	"Stock.h"
+	<iostream>
+
+1513109195 source:c:\users\ahmed shibl\desktop\projectii\person.cpp
+	"Person.h"
+
+1512505157 c:\users\ahmed shibl\desktop\projectii\person.h
+	<string>
+
+1513109195 source:c:\users\ahmed shibl\desktop\projectii\shoppingitem.cpp
+	"ShoppingItem.h"
+
