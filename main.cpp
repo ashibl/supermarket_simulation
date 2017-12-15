@@ -11,8 +11,7 @@ int main()
     int min = 1;
     int max = 4;
     int finalNum = rand()%(max - min + 1) + min;*/
-    Time time = Time::getCurrentTime();
-    /*int userChoice = -1;
+    int userChoice = -1;
     while (userChoice != 0)
     {
 
@@ -33,6 +32,7 @@ int main()
             for (int i = 0; i < numberOfCustomers; i++)
             {
                     customers[i].setID(i);
+                    customers[i].setArraivalTime(Time::getCurrentTime());
                     cout<<"Customer "<<i<<" is created"<<endl;
             }
         }
@@ -44,6 +44,6 @@ int main()
         // n.loadStock();
     }
     Customer X;
-    cout << X.getID();*/
+    cout << X.getID();
     return 0;
 }
