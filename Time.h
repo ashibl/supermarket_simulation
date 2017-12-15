@@ -9,7 +9,10 @@ class Time
         int minutes;
     public:
         Time();
-        int gethours();
+        int getHours();
+        void setHours (int hours);
+        int getMinutes ();
+        void setMinutes(int minutes);
         Time operator+();
         static Time getCurrentTime();
 };
