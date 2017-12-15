@@ -1,11 +1,18 @@
 #include <iostream>
 #include<string>
+#include <cstdlib>
+#include <time.h>
 #include "Stock.h"
 using namespace std;
 
 int main()
 {
-    int userChoice = -1;
+    /*srand(time(0));
+    int min = 1;
+    int max = 4;
+    int finalNum = rand()%(max - min + 1) + min;*/
+    Time time = Time::getCurrentTime();
+    /*int userChoice = -1;
     while (userChoice != 0)
     {
 
@@ -37,6 +44,6 @@ int main()
         // n.loadStock();
     }
     Customer X;
-    cout << X.getID();
+    cout << X.getID();*/
     return 0;
 }

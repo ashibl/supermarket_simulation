@@ -10,7 +10,7 @@ class Time
     public:
         Time();
         Time operator+();
-
+        static Time getCurrentTime();
 };
 
 #endif // TIME_H

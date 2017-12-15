@@ -111,3 +111,62 @@
 1513109195 source:c:\users\ahmed shibl\desktop\projectii\shoppingitem.cpp
 	"ShoppingItem.h"
 
+1512598338 source:c:\workspace\supermarket_simulation\admin.cpp
+	"Admin.h"
+
+1513352925 c:\workspace\supermarket_simulation\admin.h
+	"Stock.h"
+	"Customer.h"
+
+1512808527 c:\workspace\supermarket_simulation\stock.h
+	<iostream>
+	"Item.h"
+	"Customer.h"
+
+1513356526 c:\workspace\supermarket_simulation\item.h
+	<string>
+
+1513358733 c:\workspace\supermarket_simulation\customer.h
+	"ShoppingItem.h"
+	"Time.h"
+
+1513109195 c:\workspace\supermarket_simulation\shoppingitem.h
+	<string>
+
+1513363683 c:\workspace\supermarket_simulation\time.h
+
+1513358728 source:c:\workspace\supermarket_simulation\customer.cpp
+	"Customer.h"
+	"Stock.h"
+	<iostream>
+
+1512808527 source:c:\workspace\supermarket_simulation\item.cpp
+	"Item.h"
+	<string>
+
+1513109195 source:c:\workspace\supermarket_simulation\person.cpp
+	"Person.h"
+
+1512505157 c:\workspace\supermarket_simulation\person.h
+	<string>
+
+1513109195 source:c:\workspace\supermarket_simulation\shoppingitem.cpp
+	"ShoppingItem.h"
+
+1512808527 source:c:\workspace\supermarket_simulation\stock.cpp
+	"Stock.h"
+	"Item.h"
+	<fstream>
+	"Customer.h"
+
+1513365528 source:c:\workspace\supermarket_simulation\time.cpp
+	"Time.h"
+	<iostream>
+
+1513365562 source:c:\workspace\supermarket_simulation\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+	"Stock.h"
+
