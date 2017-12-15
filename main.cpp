@@ -8,6 +8,7 @@ int main()
     int userChoice = -1;
     while (userChoice != 0)
     {
+
         cout << "Press 1 to Enter as admin, 2 to Enter as customer, and 0 to end the program:" << endl;
         cin >> userChoice;
 
