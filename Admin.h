@@ -4,12 +4,18 @@
 #include "Customer.h"
 
 class Admin
-{   private:
+{
+private:
     Stock myStock;
     int totalRevnue;
     Customer Array[10];
-    public:
-        Admin();
+public:
+    Admin();
+    void setMyStock(Stock x);
+    Stock getMyStock();
+    void setTotalRevnue(int y);
+    int getTotalRevenue();
+
 };
 
 #endif // ADMIN_H

@@ -8,7 +8,6 @@ class Stock
 {   private:
     int n;
     Item *A = new Item [n] ;
-    Customer ob;
     public:
         Stock();
         void loadStock();
